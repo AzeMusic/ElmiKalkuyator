@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Elmi Kalkuyator",
     "version": "1.0",
-    "description": "Calculate Anywhere",
+    "description": "Hər yerdə hesablayın",
     "icons": {
         "128": "img/icons128.png",
         "48": "img/icons48.png",
