@@ -1,4 +1,4 @@
-<h1 align="center"><img src="/img/favicon.png" width="30" height="30"> Scientific Calculator Chrome Extension</h1>
+<h1 align="center"><img src="/img/favicon.png" width="30" height="30"> Scientific Calculator</h1>
 
 # Introduction
 
@@ -20,7 +20,7 @@ The project is for the educational purpose that if u want your extension to show
 
 - Clone this project:
 ```
-git clone https://github.com/HamzaZaidiX/Scientific-Calculator-Chrome-Extension
+git clone https://github.com/AzeMusic/ElmiKalkuyator
 ```
 - Go to Chrome Extension Webstore
 - Go to Extention manager `chrome://extensions/` in chrome
